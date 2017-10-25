@@ -1,0 +1,38 @@
+h1 {
+  color: #00000;
+  font-size: 70px;
+}
+
+h2{
+  font-size: 35px;
+}
+
+h3{
+  font-size: 20px;
+}
+
+body {
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-size: 24px;
+  color: #333333;
+  font-family: 'News Cycle', sans-serif;
+}
+
+a {
+  font-style: normal;
+  font-weight: bold;
+  color: grey;
+}
+
+p {
+  margin-bottom: 50px;
+}
+
+em {
+  font-style: normal;
+  color: goldenrod;
+  font-weight: bold;
+}
